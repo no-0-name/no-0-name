@@ -3,10 +3,6 @@
 
 <img align="right" alt="Cyberpunk" width="400" src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=no-0-name&label=Profile%20views&color=0e75b6&style=flat" alt="no-0-name" /> </p>
-
-<p align="left"> <a href="https://twitter.com/10xgd6ekytukusa" target="blank"><img src="https://img.shields.io/twitter/follow/10xgd6ekytukusa?logo=twitter&style=for-the-badge" alt="@10xgd6ekytukusa" /></a> </p>
-
 - 🔭 I’m currently working on **My site**
 
 - 🌱 I’m currently learning **django(django rest framework)**
