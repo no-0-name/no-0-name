@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My site**
 
-- 🌱 I’m currently learning **django(django rest framework)**
+- 🌱 I’m currently learning **rust**
 
 - 💬 Ask me about **BACKEND**
 
