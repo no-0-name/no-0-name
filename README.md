@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gordey Borisevich</h1>
-<h3 align="center">A passionate Backend developer from Belarus</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 <img align="right" alt="Cyberpunk" width="400" src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
 
