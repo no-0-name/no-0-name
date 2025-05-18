@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **My site**
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **BACKEND**
-
-- 📫 How to reach me **borisevich.2007@mail.ru**
 
 - ⚡ Fun fact **I like to read biographies of different people**
 
